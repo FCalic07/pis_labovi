@@ -8,5 +8,6 @@ namespace pis_labovi
 {
     internal class NewClass
     {
+        //bla bla
     }
 }
