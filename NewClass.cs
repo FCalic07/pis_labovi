@@ -8,5 +8,7 @@ namespace pis_labovi
 {
     internal class NewClass
     {
+        public string Name { get; set; }
+
     }
 }
